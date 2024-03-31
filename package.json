@@ -2,7 +2,7 @@
   "name": "calculator",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://EdwardSimmons.github.io/calculator",
+  "homepage": "https://jasmincortez.github.io/calculator",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
     "@fortawesome/free-brands-svg-icons": "^6.4.2",
